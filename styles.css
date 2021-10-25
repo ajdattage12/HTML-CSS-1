@@ -1,0 +1,114 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/3161112.png);
+}
+h1{
+    color:rgb(0, 56, 56);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 350%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: bold;
+    text-shadow: 20px rgb(107, 149, 149);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+h2 {
+    color:rgb(56, 116, 96);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+} 
+button {
+    color: rgb(107, 149, 149);
+    border-radius: 5px;
+    display: inline-block;
+    align-items: center;
+    /* justify-content: space-between; */
+    /* flex-wrap: wrap;
+    align-items: center;
+    justify-content: center; */
+    font-size: 75%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+div{
+    color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 125%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+
+}
+p{
+    color: rgb(0, 56, 56);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 75%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+p2{
+    color:rgb(56, 116, 96);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+.Books{
+    border-radius: 25px ;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    position: relative;
+    
+
+    /* margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px; */
+}
+button {
+    color: rgb(107, 149, 149);
+    border-radius: 5px;
+    display: inline-block;
+    align-items: center;
+    /* justify-content: space-between; */
+    /* flex-wrap: wrap;
+    align-items: center;
+    justify-content: center; */
+    font-size: 75%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
